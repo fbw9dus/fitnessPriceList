@@ -1,9 +1,12 @@
 # Fitness Price List
 Responsive Seite mit Preisliste
 - mobile first
-- hover-Animation
 - breakpoints für Tablet und Desktop-Auflösung
 - Sass-mixin für Buttons
+
+### Hover-Effekte
+- animierte Hover-Effekte mit transition oder @keyframes
+- Hover-Effekte für die Preis-Blöcke und die Buttons
 
 ## Mobile
 ![mobile](/draft/mobile.jpg "mobile")
