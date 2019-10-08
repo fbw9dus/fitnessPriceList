@@ -8,6 +8,9 @@ Responsive Seite mit Preisliste
 - animierte Hover-Effekte mit transition oder @keyframes
 - Hover-Effekte für die Preis-Blöcke und die Buttons
 
+### Schriften
+https://fonts.google.com/specimen/Raleway
+
 ## Mobile
 ![mobile](/draft/mobile.jpg "mobile")
 
